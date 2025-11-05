@@ -1,11 +1,11 @@
-# FASTA to COE Converter
+# FASTA to COE File Converter
 
-This project provides a Python script to convert DNA sequence files in FASTA format into COE (Coefficient) files for memory initialization in FPGA designs.
+This project provides a Python script to convert DNA sequence files in FASTA format into COE (Coefficient) files for memory initialization in FPGA designs (Using it in Vivado).
 
 ## Files
 
 - `fasta_to_coe.py` – Converts a FASTA file to a COE file.
-- `another_file.py` – [Brief description of what this file does.]
+- `coe_to_fasta.py` – Converts the COE file back to FASTA file.
 
 ## Usage
 
